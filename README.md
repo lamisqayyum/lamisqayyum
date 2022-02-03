@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lamis Qayyum
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL and Tableau
